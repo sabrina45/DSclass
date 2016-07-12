@@ -6,7 +6,7 @@ Repository for data science class
 * [Link to Python Introduction] (http://introtopython.org/)
 * [Markdown cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
-*get out what you put in* 
+*This version changed on the local drive* 
 
  
 
