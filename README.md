@@ -6,8 +6,7 @@ Repository for data science class
 * [Link to Python Introduction] (http://introtopython.org/)
 * [Markdown cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
+*get out what you put in* 
 
  
 
