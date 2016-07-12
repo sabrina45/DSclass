@@ -5,7 +5,9 @@ Repository for data science class
 * [Link to DAT3 class](https://github.com/ga-students/DS-SEA-3)
 * [Link to Python Introduction] (http://introtopython.org/)
 * [Markdown cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-* 
+
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
 
  
 
