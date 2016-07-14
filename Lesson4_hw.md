@@ -55,9 +55,9 @@ The csv list includes:
 ./data/chipotle.tsv
 ./data/sms.tsv
 ##7. 
-Dictionary shows 170 times
+Dictionary shows 170 times.
 I first created a file with all of the occurences of dictionary in it by running $ grep -r -i dictionary.
-I created a file with all of the occurences of dictionary by running grep -r -i dictionary . > dictionary_count.txt
-I then counted the number of times dictionary shows in that file dictionary_count.txt by running wc -l dictionary_count.txt
+I created a file with all of the occurences of dictionary by running grep -r -i dictionary . > dictionary_count.txt.
+I then counted the number of times dictionary shows in that file dictionary_count.txt by running wc -l dictionary_count.txt.
 
 
